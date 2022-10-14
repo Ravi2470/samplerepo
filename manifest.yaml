@@ -13,7 +13,7 @@ spec:
         app: opsmx-nginx
     spec:
       containers:
-        - image: docker.io/vijayendarr/mynginx
+        - image: docker.io/ravis2470/apache:7
           imagePullPolicy: Always
           name: nginx
           ports:
