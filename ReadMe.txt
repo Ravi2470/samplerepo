@@ -1,1 +1,1 @@
-## GitHub integration with Spinnaker
+## GitHub integration with Spinnaker 1
